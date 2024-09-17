@@ -5,21 +5,27 @@
             "nombre": "Roberto",
             "cuil": 20435613173,
             "direccion": "Argentina argentina 11 ",
-            "telefono": 43324254
+            "telefono": 43324254,
+            "mail": "gmail",
+            "situacionFiscal": "Mono"
         },
         {
             "id": "2",
             "nombre": "Messi",
             "cuil": 20435613174,
             "direccion": "Argentina argentina 12 ",
-            "telefono": 43324255
+            "telefono": 43324255,
+            "mail": "gmail1",
+            "situacionFiscal": "Mono"
         },
         {
             "id": "3",
             "nombre": "Julian",
             "cuil": 20435613175,
             "direccion": "Argentina argentina 13 ",
-            "telefono": 43324256
+            "telefono": 43324256,
+            "mail": "gmail2",
+            "situacionFiscal": "Mono"
         }
     ]
 }

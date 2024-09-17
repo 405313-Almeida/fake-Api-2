@@ -1,0 +1,53 @@
+{
+    "Detalle": [
+        {
+            "id": 1,
+            "item": "Expensas Ordinarias",
+            "descripcion": "Cuota mensual de mantenimiento de espacios comunes.",
+            "precio ": 15000,
+            "porcentaje": "50.00"
+        },
+        {
+            "id": 2,
+            "item": "Luz Común",
+            "descripcion": "Gasto de electricidad en áreas comunes como pasillos y hall de entrada.",
+            "precio": 3000,
+            "porcentaje": "10.00"
+        },
+        {
+            "id": 3,
+            "item": "Agua",
+            "descripcion": "Consumo de agua general del edificio.",
+            "precio": 2500,
+            "porcentaje": "8.33"
+        },
+        {
+            "id": 4,
+            "item": "Mantenimiento de Ascensores",
+            "descripcion": "Revisión y reparación de ascensores.",
+            "precio": 4000,
+            "porcentaje": "13.33"
+        },
+        {
+            "id": 5,
+            "item": "Jardinería",
+            "descripcion": "Cuidado y mantenimiento de jardines y áreas verdes.",
+            "precio": 2000,
+            "porcentaje": "6.67"
+        },
+        {
+            "id": 6,
+            "item": "Limpieza",
+            "descripcion": "Servicios de limpieza en áreas comunes.",
+            "precio": 3000,
+            "porcentaje": "10.00"
+        },
+        {
+            "id": 7,
+            "item": "Fondo de Reserva",
+            "descripcion": "Monto destinado a imprevistos o futuras reparaciones.",
+            "precio": 1500,
+            "porcentaje": "5.00"
+        }
+    ]
+}
