@@ -1,0 +1,25 @@
+{
+    "Usuario": [
+        {
+            "id": "1",
+            "nombre": "Roberto",
+            "cuil": 20435613173,
+            "direccion": "Argentina argentina 11 ",
+            "telefono": 43324254
+        },
+        {
+            "id": "2",
+            "nombre": "Messi",
+            "cuil": 20435613174,
+            "direccion": "Argentina argentina 12 ",
+            "telefono": 43324255
+        },
+        {
+            "id": "3",
+            "nombre": "Julian",
+            "cuil": 20435613175,
+            "direccion": "Argentina argentina 13 ",
+            "telefono": 43324256
+        }
+    ]
+}
